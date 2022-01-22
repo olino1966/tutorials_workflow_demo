@@ -10,7 +10,7 @@ from tutorials.models import Tutorial
 from tutorials.serializers import TutorialSerializer
 from rest_framework.decorators import api_view
 
-# Create your views here.
+# Create your views here .
 # def index(request):
 #     return render(request, "tutorials/index.html")
 
