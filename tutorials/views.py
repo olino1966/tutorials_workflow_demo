@@ -17,7 +17,7 @@ from rest_framework.decorators import api_view
 
 # def index(request):
 #     queryset = Tutorial.objects.all()
-#     return render(request, "tutorials/index.html", {'tutorials': queryset})
+#     return render(request, "tutorials/index.html", {'tutorials': queryset}).
 
 
 class index(APIView):
